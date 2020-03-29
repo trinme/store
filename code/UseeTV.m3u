@@ -125,7 +125,7 @@ https://vcdnjt.useetv.com/joss/14/antara/chunklist_w227894758_b684100_sleng.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vcdnjt.useetv.com/joss/14/balitv/chunklist_w1320846308_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="Lokal, Berita Satu
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="Lokal", Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vcdnjt.useetv.com/joss/14/beritasatu/chunklist_w1698599514_b684100_sleng.m3u8
 
@@ -213,7 +213,7 @@ https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1838290029_b684100_slen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w2112845721_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="Movies, Flik
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="Movies", Flik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w593810918_b1344100_sleng.m3u8
 
@@ -437,7 +437,7 @@ https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w1889966787_b894100_sleng.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1987266509_b894100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png" group-title="Hiburan, TV5Monde
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png" group-title="Hiburan", TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vcdnjt.useetv.com/joss/14/tv5monde/chunklist_w1649201466_b684100_sleng.m3u8
 
