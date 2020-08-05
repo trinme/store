@@ -499,17 +499,17 @@
     "name": "UNFI TEST",
     "samples": [
      {
-        "name": "	801 UNIFITEST",
+        "name": "	801 UNIFI VOD",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227738/3221227738.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
-        "name": "	802 TV3TEST",
+        "name": "	802 TEST",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227633/3221227633.mpd"
       },
       {
-        "name": "	803 FOXMOVIETEST",
+        "name": "	803 TEST2",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227715/3221227715.mpd"
       }
     ]
