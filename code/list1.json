@@ -528,19 +528,19 @@
       },
       {
         "name": "TV3",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaB-tyi9iEXfL9iUgaEB5sIPOLgznSA8D3g4wCIjIofUR85UH2mJD2ERu0E-izk4XGw"
+        "uri": "https://trinme.github.io/store/code/dm/telu.m3u8"
       },
       {
         "name": "NTV7",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp6ou.m3u8?sec=O92yQs7wUNG3lxJjphgbq4ggmLDME2KyKekHktCswQbvqE8AVRrDLQ8Ig-A19hcFSpRflVBLzMHDIIIH24GKvQ"
+        "uri": "https://trinme.github.io/store/code/dm/pitu.m3u8"
       },
       {
         "name": "8TV",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qud17.m3u8?sec=Bri35_Jw3Y9HNm0uYb4Ixm_pn_3UMcZyDumFWMuj7BEbV16wfoFzDqYVaD8FBUKMfzpMDkaSZ2cHEiOekuAZzA"
+        "uri": "https://trinme.github.io/store/code/dm/volu.m3u8"
       },
       {
         "name": "TV9",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qqja6.m3u8?sec=ZwFQ_HzgvMTsAdEA5__luF1aNNm5BPPpfmYZnrkrRrh9tVAlXhlEihj_B43qi7ZVXkXnQybqywpKcVd8cAEl6w"
+        "uri": "https://trinme.github.io/store/code/dm/songo.m3u8"
       },
       {
         "name": "TV OKEY",
@@ -592,7 +592,7 @@
       },
       {
         "name": "DRAMA SANGAT",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTClqwNqW-LXOwVpfu_qqHrxovpsLovlwlpn9ocqbeHZ9P2EMrr3oqcvxoP583PAbuA"
+        "uri": "https://trinme.github.io/store/code/dm/banget.m3u8"
       }
     ]
   }
