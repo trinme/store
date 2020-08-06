@@ -516,16 +516,8 @@
   }, 	  
 
   {
-    "name": "ADDON 8278",
+    "name": "TONTON-RTM",
     "samples": [
-      {
-        "name": "TV1",
-        "uri": "http://50.7.161.82:8278/TV1/playlist.m3u8?tid=m01294942973813751086&ct=18381&tsum=203d9f6aff1f4a07a46c461e23b2e96d"
-      },
-      {
-        "name": "TV2",
-        "uri": "http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m09295420544418605873&ct=18381&tsum=0439b70db17a0d8c15577d1ba92cfcbe"
-      },
       {
         "name": "TV3",
         "uri": "https://trinme.github.io/store/code/dm/telu.m3u8"
@@ -543,56 +535,56 @@
         "uri": "https://trinme.github.io/store/code/dm/songo.m3u8"
       },
       {
+        "name": "DRAMA SANGAT",
+        "uri": "https://trinme.github.io/store/code/dm/banget.m3u8"
+      },
+      {
+        "name": "TV1",
+        "uri": "https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+      },
+      {
+        "name": "TV2",
+        "uri": "https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd"
+      },  
+      {
         "name": "TV OKEY",
-        "uri": "http://50.7.161.82:8278/Okey/playlist.m3u8?tid=m04067431520111732237&ct=18381&tsum=96e4c8322017873f380a75c7c5dfdfc6"
+        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
-        "name": "CERIA",
-        "uri": "http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m07776254534611370815&ct=18381&tsum=de1dc609ded27c2a0007b77c6fa3646f"
+        "name": "RTM BES",
+        "uri": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
       {
-        "name": "AWANI",
-        "uri": "http://50.7.161.82:8278/Awani/playlist.m3u8?tid=m02998443263612910518&ct=18381&tsum=f899f1143c6424df1291255e458ccc22"
+        "name": "RTM SPORTS",
+        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
-        "name": "BERNAMA",
-        "uri": "http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m01681057242413394400&ct=18381&tsum=013e7c7f10e845593cfa6983576606e2"
+        "name": "DWN RAKRAT",
+        "uri": "https://parlimenrakyathbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd"
       },
       {
-        "name": "OASIS",
-        "uri": "http://50.7.161.82:8278/Oasis/playlist.m3u8?tid=m02420029145318170421&ct=18381&tsum=fc5a03a9747c8f39df7763118bf097ac"
+        "name": "DWN NEGARA",
+        "uri": "https://parlimennegarahbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd"
       },
       {
-        "name": "WARNA",
+        "name": "1",
         "uri": "http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m07016121372813410755&ct=18381&tsum=a527363c0c38165c234c84e7e7411da4"
       },
       {
-        "name": "RIA",
+        "name": "2",
         "uri": "http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m01790894719016696035&ct=18381&tsum=d380a2ebfd1363b3e6fe4c9dd5f9ad1c"
       },
       {
-        "name": "CITRA",
+        "name": "3",
         "uri": "http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m06186785425016264503&ct=18381&tsum=a1082d0f79f545aadcadebac1a7b10d7"
       },
       {
-        "name": "PRIMA",
+        "name": "4",
         "uri": "http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m06066695590416242101&ct=18381&tsum=24d98b45ecc7877bb740aa06c51cb7d9"
       },
       {
-        "name": "ALHIJRAH",
+        "name": "5",
         "uri": "http://50.7.161.82:8278/Alhijrah/playlist.m3u8?tid=m02371972707218288088&ct=18381&tsum=b658ebc7d8689fd34a340b11f9112d43"
-      },
-      {
-        "name": "BOO",
-        "uri": "http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m05322874689815866162&ct=18381&tsum=c80cec54c71d7fe543332b07142b0895"
-      },
-      {
-        "name": "NAURA",
-        "uri": "http://50.7.161.82:8278/Naura/playlist.m3u8?tid=m03846592711511097544&ct=18381&tsum=fad51f98a3c4c545fe3855c95f1ba615"
-      },
-      {
-        "name": "DRAMA SANGAT",
-        "uri": "https://trinme.github.io/store/code/dm/banget.m3u8"
       }
     ]
   }
