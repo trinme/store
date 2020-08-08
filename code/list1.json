@@ -10,7 +10,7 @@
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=NWE2YzliZTQtMWYwYS0zNjdiLWI2ZWQtZTY1MmQzZGE5YTQw"
       },
       {
-        "name": "	101 TV1"
+        "name": "	101 TV1",
 	"img_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",      
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
