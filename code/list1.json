@@ -567,6 +567,10 @@
         "uri": "https://parlimennegarahbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd"
       },
       {
+        "name": "BERNAMA",	    
+	"uri": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1596893361/ei/UVQuX_bIH-TX4-EPmZmUcA/ip/60.51.36.231/id/kZ8wB5Y8lMo.0/source/yt_live_broadcast/requiressl/yes/tx/23903766/txs/23903758,23903759,23903760,23903761,23903762,23903763,23903764,23903765,23903766/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883098/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,tx,txs,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRgIhAM-K0CeGYWqA-9bCglFUAovhkRmiEBUfl0RtqdyWWXgqAiEAzulrR5Go6mOIRAL_IDzYZn8-wL57eWJuiq8XZBNrtCY=/file/index.m3u8"
+      },
+      {
         "name": "AS TV3",
         "uri": "http://185.246.210.115:25461/6jANKKBEUI/gGr1jNSG4F/55473?play_token=eHHWaO46iO&token=GRdRWUpbQV9BBAxWUVpUVQQHXQUAVQMDC1RSU1ZSWlVWUQoIXFcBVFARFEQQFxAGVQxnD1YVCVQGV1MBHEFNQgdHZlFdEVlHUgYKXlBSVEEYQ0wPX1IRWwJWXQQHUgoGWgYVGklaB0dZEQtfWlBRUBZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFEHVQpEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1cMUg5ETw=="
       },
