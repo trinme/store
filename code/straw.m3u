@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="TV1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="LOKAL",CH101 TV1
-http://195.181.173.90:25461/XnxrQZjyMX/OQIEgd1XRP/55480?play_token=mcjYw104NN&token=GRdRWUpbQV9BUVoDUAIEVwBQXQJXB1JWVlZcCggAXFMBAQFcCQNWUFsRFEQQFxAGVQxnD1YVCVQGV1wCHEFNQgdHZlFdEVlHUgMBUldSV0EYQ0wPX1IRWwJWXQUDWwgGVQwVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-#EXTINF:-1 tvg-ID="TV2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="LOKAL",CH102 TV2
-http://195.181.173.90:25461/XnxrQZjyMX/OQIEgd1XRP/55481?play_token=QHAHhZIqbZ&token=GRdRWUpbQV9BCwpUU1FaU1ZRWQJUAQsHCwdQAlFRAFBWAVgBDQBRA1URFEQQFxAGVQxnD1YVCVQGV1wDHEFNQgdHZlFdEVlHUgMBUldSV0EYQ0wPX1IRWwJWXQUDWwgGWwYVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-#EXTINF:-1 tvg-ID="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="LOKAL",CH 103 TV3
-http://185.246.210.115:25461/XnxrQZjyMX/OQIEgd1XRP/55473?play_token=GBU29FCV3h&token=GRdRWUpbQV9BB11eUldTUQBVWVcCBwNSVwBWAAVRAANVUQ1aXQsBAQIRFEQQFxAGVQxnD1YVCVQGV1MBHEFNQgdHZlFdEVlHUgMBUldSV0EYQ0wPX1IRWwJWXQUDWwgGUwcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
+#EXTINF:-1 tvg-ID="TV1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="LOKAL",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF:-1 tvg-ID="TV2" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="LOKAL",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-ID="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="LOKAL",TV3
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="RIA" tvg-name="ASTRO RIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="LOKAL",CH104 ASTRO RIA HD
 http://185.59.222.189:25461/XnxrQZjyMX/OQIEgd1XRP/110155?play_token=cYI6g77v1c&token=GRdRWUpbQV9BUVsAB1RUBwUCXAILBFZQAwZRV1ICCVRaAAleWwAGXQcRFEQQFxAGVQxnD1YVCVACU1UHBU8aRBFQS2dQV0FfQQIIX1dXU1YWTRoSW1pWQwlSUQsHUAABVgMKFBtDCgFBCRpUUVdTUBZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVwhEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1IEVw9ETw==
 #EXTINF:-1 tvg-ID="PRIMA" tvg-name="ASTRO PRIMA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="LOKAL",CH105 ASTRO PRIMA HD
