@@ -1,36 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="Vareity",TV1
+#EXTINF:-1 tvg-ID="" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" group-title="Variety",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Vareity",TV2
+#EXTINF:-1 tvg-ID="" tvg-name="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png" group-title="Variety",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Vareity",TV3*
+#EXTINF:-1 tvg-ID="" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Variety",TV3*
 http://185.246.210.115:25461/DqzgKp2ePs/NeDEMg0kpZ/55473?play_token=JO9GbdAeDm&token=GRdRWUpbQV9BCgFWB1NaAAICWV8AAgsDVQdUBwBUXAZWAQ4PW1YFVlARFEQQFxAGVQxnD1YVCVQGV1MBHEFNQgdHZlFdEVlHUgMMV1tXVEEYQ0wPX1IRWwJWXQoHUggDWwcVGklaB0dZEQtXVVNVWhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFEHWQ1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVcHWAleEEo=
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO RIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Vareity",ASTRO RIA HD*
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO RIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Variety",ASTRO RIA HD*
 http://185.59.222.189:25461/DqzgKp2ePs/NeDEMg0kpZ/110155?play_token=Mp1eFRLv4Q&token=GRdRWUpbQV9BAQ5UAVcDAlYED1RXD1EECgJRVwdXDARbDQENXwZRBwcRFEQQFxAGVQxnD1YVCVACU1UHBU8aRBFQS2dQV0FfQQIIUlJbVlUWTRoSW1pWQwlSUQsIVAkBUQQLFBtDCgFBCRpSVVpSQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1UDUhpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFQUloAWRob
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO PRIMA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Vareity",ASTRO PRIMA HD*
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO PRIMA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Variety",ASTRO PRIMA HD*
 http://185.59.222.189:25461/DqzgKp2ePs/NeDEMg0kpZ/110156?play_token=lcgMBFZnAj&token=GRdRWUpbQV9BUQsHUlEBW1UDDQdRBQdXAgUGCglQDAEBA1tbDlFaAwERFEQQFxAGVQxnD1YVCVACU1UHBk8aRBFQS2dQV0FfQQIIUlJbVlUWTRoSW1pWQwlSUQsIVAkBUQYNFBtDCgFBCRpXUVJRUBZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVQBEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1UDVQFETw==
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO OASIS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Vareity",ASTRO OASIS HD*
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO OASIS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Variety",ASTRO OASIS HD*
 http://185.59.222.189:25461/DqzgKp2ePs/NeDEMg0kpZ/110157?play_token=kFtSRQ25Fi&token=GRdRWUpbQV9BBwhRW1dSVwYEWQJXDgFXA1NdAFZbXVBSAl9bWAQAXFQRFEQQFxAGVQxnD1YVCVACU1UHB08aRBFQS2dQV0FfQQIIUlJbVlUWTRoSW1pWQwlSUQsIVAkBUQEAFBtDCgFBCRpUV1pXQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1UAWBpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFUW1AEQ0U=
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO WARNA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Vareity",ASTRO WARNA HD*
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO WARNA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Variety",ASTRO WARNA HD*
 http://185.59.222.189:25461/DqzgKp2ePs/NeDEMg0kpZ/110158?play_token=1DT1B6rEi9&token=GRdRWUpbQV9BUQpVAQBTAVdYAFMEBQRXBQUBBVYAAABRBF9cWwtSB1oRFEQQFxAGVQxnD1YVCVACU1UHCE8aRBFQS2dQV0FfQQIIUlJbVlUWTRoSW1pWQwlSUQsIVAkBUQMNFBtDCgFBCRpUV1BRQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1UGWRpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRUlsEVBob
-#EXTINF:-1 tvg-ID="" tvg-name="Astro Citra HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Vareity",ASTRO CITRA HD*
+#EXTINF:-1 tvg-ID="" tvg-name="Astro Citra HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Variety",ASTRO CITRA HD*
 http://185.59.222.189:25461/DqzgKp2ePs/NeDEMg0kpZ/110270?play_token=9gaMxMhn6B&token=GRdRWUpbQV9BVwwCUgAEAFVTWwdTBgQCV1dUCwVTCVRWAw0AWgRVXAYRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIIUlJbVlUWTRoSW1pWQwlSUQsIVAkBUQ0OFBtDCgFBCRpUVltVVhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIHVApEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFADUAFETw==
-#EXTINF:-1 tvg-ID="" tvg-name="NAURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Vareity",ASTRO NAURA
+#EXTINF:-1 tvg-ID="" tvg-name="NAURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="Variety",ASTRO NAURA
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO RANIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Vareity",ASTRO RANIA*
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO RANIA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Variety",ASTRO RANIA*
 http://myngx.space:8080/OQpEWELPSS/pc1XQtLn8j/15848?play_token=W4w3hTQUgP&token=TRJbBRZbF15GUFMDWFQEBwBTUAMNBFMDBAcPUl5UVAIAUwBXBgpRVVVETxVKFUUDBV86WlxAD1NTWQxaFEBCEFNCbA0BEQ9GVVZSBw5DG0QQWwhWGlgEV19ZCFMPUANSGhJDDQERDwoRCg8bGwRPEgFAC1JUPVEHEAhbBxpYWRZaXB9GCl1qAAELAlldQw1EVRBJEVERRUBcD00OVE4VAV9EQQURVhdeChMPWxVDVAkRXBFBQUAPQCs4Gk4aB08XU15ADQpdF15GEhAVFUNeFTtAAEBMEFADCwRKQAJAB0EaEl4FHWxWCwoIBlRNCFgIFxBfEQlAGUALDlYLTA1FPEZZV0ZfXUAICBs=
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Vareity",ASTRO AURA*
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO AURA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Variety",ASTRO AURA*
 http://85.203.33.120:25461/OkCE5On8nh/M7kJMj42yh/174350?play_token=BsGjvpWpV8&token=ShdcBRFREglDBlYDAwUBVFcHDVIODVIOUlAIVAFQXAgCVANUBg8HC1NGHxERR0tSUF5mClwbCQZRUQoAB04bRUJQRjsLXRIJQ1AHC1YHDBUdEU0KVVwRDVdQAA0HUw8BBg0YRhJQVBFbRgIEVgAOFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAEIBRtPGlpcQggRS0wVWBt9aBcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUABAAcEChse
-#EXTINF:-1 tvg-ID="" tvg-name="AL-HIJRAH" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Vareity",TV ALHIJRAH*
+#EXTINF:-1 tvg-ID="" tvg-name="AL-HIJRAH" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Variety",TV ALHIJRAH*
 http://185.59.222.189:25461/DqzgKp2ePs/NeDEMg0kpZ/110160?play_token=gOlw21gPSN&token=GRdRWUpbQV9BAQhXVVdQUVYFWVEFAwUHVVJSCwZWXlJQBw1bCAdQUFIRFEQQFxAGVQxnD1YVCVACU1UEAE8aRBFQS2dQV0FfQQIIUlJbVlUWTRoSW1pWQwlSUQsIVAkBVgYOFBtDCgFBCRpUUFZWWxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIEWQ9EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1UAWQBETw==
-#EXTINF:-1 tvg-ID="" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="Vareity",TV OKEY
+#EXTINF:-1 tvg-ID="" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="Variety",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Vareity",NTV7
+#EXTINF:-1 tvg-ID="" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Variety",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Vareity",8TV
+#EXTINF:-1 tvg-ID="" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Variety",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Vareity",TV9
+#EXTINF:-1 tvg-ID="" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Variety",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
 
