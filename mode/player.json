@@ -1,0 +1,48 @@
+{
+  "stations": [
+    {
+      "name": "TV1",
+      "logo": "tv1.png",
+      "url": [
+        "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8",
+        "http://58.26.3.56/PLTV/88888888/224/3221226228/02.m3u8"
+      ]
+    },
+    {
+      "name": "TV2",
+      "logo": "tv2.png",
+      "url": [
+        "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
+        "http://58.26.3.56/PLTV/88888888/224/3221226229/02.m3u8"
+      ]
+    },
+    {
+      "name": "TV3",
+      "logo": "tv3.png",
+      "url": [
+        "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8"
+      ]
+    },
+    {
+      "name": "NTV7",
+      "logo": "ntv7.png",
+      "url": [
+        "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8"
+      ]
+    },
+    {
+      "name": "8TV",
+      "logo": "8tv.png",
+      "url": [
+        "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8"
+      ]
+    },
+    {
+      "name": "TV9",
+      "logo": "tv9.png",
+      "url": [
+        "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8"
+      ]
+    }
+  ]
+}  
