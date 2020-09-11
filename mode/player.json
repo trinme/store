@@ -2,7 +2,7 @@
   "stations": [
     {
       "name": "TV1",
-      "logo": "tv1.png",
+      "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png",
       "url": [
         "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8",
         "http://58.26.3.56/PLTV/88888888/224/3221226228/02.m3u8"
@@ -10,7 +10,7 @@
     },
     {
       "name": "TV2",
-      "logo": "tv2.png",
+      "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
       "url": [
         "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
         "http://58.26.3.56/PLTV/88888888/224/3221226229/02.m3u8"
